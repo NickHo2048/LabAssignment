@@ -1,5 +1,5 @@
 Hello, World!
-I'm kinda lost on this ass. already. 
+I'm kinda lost on this assignment already. 
 Hello!
 [Link](https://ucsd-cse15l-w22.github.io/week/week2/)
 [Link](lab-report-1-week-2.md)
