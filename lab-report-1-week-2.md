@@ -4,7 +4,7 @@ Go to account lookup, enter your regular username/PID, then click on the cs15l..
 
 Step 2: Visual Studio Code
 Download Visual Studio Code from this [Link](https://code.visualstudio.com/Download)
-![VSCodePicture](Screenshot 2022-01-14 143453.png)
+![VSCodePicture](VSCODE.png)
 
 Step 3: Remotely Connecting
 Type SSH cs15l...@ieng6.ucsd.edu on your computer; then enter your password. 
