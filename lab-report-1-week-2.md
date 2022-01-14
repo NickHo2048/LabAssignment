@@ -4,4 +4,6 @@ Go to account lookup, enter your regular username/PID, then click on the cs15l..
 
 Step 2: Visual Studio Code
 Download Visual Studio Code from this [Link](https://code.visualstudio.com/Download)
-[VSCode Picture](Screenshot 2022-01-14 143453.png)
+![VSCodePicture](Scereenshot 2022-01-14 143453.png)
+
+Step 3: Remotely Connecting
